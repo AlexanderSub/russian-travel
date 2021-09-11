@@ -3,5 +3,16 @@
   color: #fff;
   font-size: 16px;
   line-height: 18px;
-  margin: 0 18px 24px 0;
+  margin-right: 18px;
+}
+
+.footer__link:hover {
+  opacity: 80%;
+ }
+
+ @media screen and (max-width: 767px) {
+  .footer__link {
+    font-size: 24px;
+    line-height: 24px;
+  }
 }

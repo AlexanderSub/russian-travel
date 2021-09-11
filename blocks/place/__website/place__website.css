@@ -1,3 +1,5 @@
 .place__website {
-  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
 }
