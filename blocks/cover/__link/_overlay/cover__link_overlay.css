@@ -1,0 +1,11 @@
+.cover__link_overlay {
+  background-color: rgba(42, 44, 47, 0.3);
+  width: 100%;
+  height: 100%;
+  transition: .8s;
+}
+
+.cover__link_overlay:hover {
+  background-color: rgba(42, 44, 47, 0.8);
+  transition: .8s;
+}
