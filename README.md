@@ -10,4 +10,4 @@
 Изменение внешнего вида ссылок при помощи инструментов hover.
 Ссылки на сторонние ресурсы.
 
-Ссылка на GitHub проекта: https://github.com/AlexanderSub/russian-travel
+Ссылка на GitHub проекта: https://alexandersub.github.io/russian-travel/
