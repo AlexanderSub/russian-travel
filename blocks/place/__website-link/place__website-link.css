@@ -1,0 +1,16 @@
+.place__website-link {
+  color: #fff;
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 400;
+}
+.place__website-link:hover {
+  opacity: 80%;
+}
+
+@media screen and (max-width: 767px) {
+  .place__website-link {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}

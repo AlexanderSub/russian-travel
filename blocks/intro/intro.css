@@ -1,8 +1,6 @@
 .intro {
   max-width: 984px;
   margin: 92px auto;
-  display: grid;
-  grid-template-columns: fit-content(690px) 1fr;
 }
 
 @media screen and (max-width: 1279px) {
@@ -14,7 +12,6 @@
 @media screen and (max-width: 1023px) {
   .intro {
     max-width: 720px;
-    grid-template-columns: 1fr;
     margin: 88px auto;
   }
 }
@@ -22,7 +19,6 @@
 @media screen and (max-width: 767px) {
   .intro {
     max-width: calc(100vw - 32px);
-    grid-template-columns: 1fr;
     margin: 64px auto;
   }
 }

@@ -1,5 +1,6 @@
-.page {
+.main {
   max-width: 1280px;
+  min-width: 320px;
   font-family: 'Inter', 'Arial', sans-serif;
   background-color: #2a2c2f;
   color: #fff;
